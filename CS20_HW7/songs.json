@@ -1,0 +1,72 @@
+
+[
+    {
+        "title": "Where is My Mind",
+        "artists": ["The Pixies"],
+        "genres": ["Alternative Rock"],
+        "release_date": 1988
+    },
+
+    {
+        "title": "Lights Up",
+        "artists": ["Harry Styles"],
+        "genres": ["Pop"],
+        "release_date": 2019
+    },
+
+    {
+        "title": "Don't Start Now",
+        "artists": ["Dua Lipa"],
+        "genres": ["Disco"],
+        "release_date": 2020
+    },
+
+    {
+        "title": "The Monster",
+        "artists": ["Eminem", "Rihanna"],
+        "genres": ["Hip-Hop", "Rap"],
+        "release_date": 2013
+    },
+
+    {
+        "title": "When I Was Your Man",
+        "artists": ["Bruno Mars"],
+        "genres": ["Pop"],
+        "release_date": 2013
+    },
+
+    {
+        "title": "Moment for Life",
+        "artists": ["Nicki Minaj", "Drake"],
+        "genres": ["Hip-Hop", "R&#38;B"],
+        "release_date": 2010
+    },
+
+    {
+        "title": "Kiss Me More",
+        "artists": ["Doja Cat", "SZA"],
+        "genres": ["Pop", "R&#38;B", "Pop Rap", "Dance-Pop"],
+        "release_date": 2021
+    },
+
+    {
+        "title": "Feels",
+        "artists": ["Calvin Harris", "Katty Perry", "Pharrell Williams", "Big Sean"],
+        "genres": ["Disco", "Funk"],
+        "release_date": 2017
+    },
+
+    {
+        "title": "Bohemian Rhapsody",
+        "artists": ["Queen"],
+        "genres": ["Hard Rock", "Progressive Rap", "Pop", "Art Rock"],
+        "release_date": 1975
+    },
+
+    {
+        "title": "Stressed Out",
+        "artists": ["Twenty One Pilots"],
+        "genres": ["Alternative Hip-Hop", "Alternative Rock", "Rap Rock"],
+        "release_date": 2015
+    }
+]
