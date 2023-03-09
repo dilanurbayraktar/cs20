@@ -68,5 +68,47 @@
         "artists": ["Twenty One Pilots"],
         "genres": ["Alternative Hip-Hop", "Alternative Rock", "Rap Rock"],
         "release_date": 2015
+    },
+
+    {
+        "title": "Snow On the Beach",
+        "artists": ["Lana Del Rey"],
+        "genres": ["Dream Pop"],
+        "release_date": 2022
+    },
+
+    {
+        "title": "Boy With Luv",
+        "artists": ["BTS", "Halsey"],
+        "genres": ["K-Pop", "Pop", "Nu-Disco"],
+        "release_date": 2019
+    },
+
+    {
+        "title": "Old Town Road",
+        "artists": ["Lil Nas X", "Billy Ray"],
+        "genres": ["Country Rap", "Pop", "Southern Hip Hop"],
+        "release_date": 2018
+    },
+
+    {
+        "title": "ME!",
+        "artists": ["Taylor Swift", "Brendon Urie"],
+        "genres": ["Bubblegum Pop", "Synth-Pop"],
+        "release_date": 2019
+    },
+
+    {
+        "title": "FourFiveSeconds",
+        "artists": ["Rihanna", "Kanye West", "Paul McCartney"],
+        "genres": ["Acoustic", "Folk", "Soul"],
+        "release_date": 2015
+    },
+
+    {
+        "title": "Love The Way You Lie",
+        "artists": ["Eminem", "Rihanna"],
+        "genres": ["Pop-Rap"],
+        "release_date": 2010
     }
 ]
