@@ -38,14 +38,14 @@
     {
         "title": "Moment for Life",
         "artists": ["Nicki Minaj", "Drake"],
-        "genres": ["Hip-Hop", "R&#38;B"],
+        "genres": ["Hip-Hop", "R&B"],
         "release_date": 2010
     },
 
     {
         "title": "Kiss Me More",
         "artists": ["Doja Cat", "SZA"],
-        "genres": ["Pop", "R&#38;B", "Pop Rap", "Dance-Pop"],
+        "genres": ["Pop", "R&B", "Pop Rap", "Dance-Pop"],
         "release_date": 2021
     },
 
